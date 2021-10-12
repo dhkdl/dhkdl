@@ -185,24 +185,3 @@ body {
 	font-family: NanumSquareR;
 	font-size: 2rem;
 }
-
-.jb-container {
-height: 100vh;
-background-color: #FFFFFF;
-display: flex;
-justify-content: center;
-align-items: center;
-}
-.jb-item {
-padding: 20px;
-background-color: #FFFFFF;
-}
-
-.home-title {
-	text-align:center; 
-	font-size:1.5rem; 
-	font-weight:bold; 
-	position:relative; 
-	top:50px;
-	margin: 20 20 20 20;
-}
